@@ -3,6 +3,8 @@
 *.lo
 *.o
 
+
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -11,3 +13,6 @@
 *.lai
 *.la
 *.a
+
+
+*.exe
